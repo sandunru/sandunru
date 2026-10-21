@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sandunru
-- 👀 I’m interested in various database technologies mainly MariaDB, Oracle & PostgreSQL
-- 🌱 I’m currently learning all possible things.
-- 💞️ I’m looking to collaborate on database administration related stuff.
+- 👀 I’m interested in various database technologies mainly MariaDB, Oracle, PostgreSQL & Valkey Caching 
+- 🌱 I’m currently learning all possible things on databases.
+- 💞️ I’m looking to collaborate on database engineering related stuff.
 - 📫 Reach me via sandunru@gmail.com
 
 <!---
