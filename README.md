@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @sandunru
-- 👀 I’m interested in various database technologies mainly MariaDB, Oracle, PostgreSQL & Valkey Caching 
-- 🌱 I’m currently learning all possible things on databases.
-- 💞️ I’m looking to collaborate on database engineering related stuff.
-- 📫 Reach me via sandunru@gmail.com
+# Hey, I'm Sandun 👋
 
-<!---
-sandunru/sandunru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a database engineer who enjoys working with databases, solving performance issues, and automating things.
+
+### 🔧 What I Work With
+- 🟠 **Oracle Database** — DBA, performance tuning, RAC & Data Guard
+- 🐬 **MariaDB** — Replication, MaxScale, HA & performance tuning
+- 🐘 **PostgreSQL** — Database administration, performance & AWS RDS
+- ⚡ **Valkey** — Caching, high availability & performance testing
+- 🐧 **Linux** — System administration & troubleshooting
+- 🚀 **Automation** — Ansible, Terraform & Bash
+
+### 🌱 Currently Learning
+Exploring deeper database internals, cloud technologies, and ways to automate everyday DBA tasks.
+
+### 💻 What You'll Find Here
+Scripts, useful SQL queries, troubleshooting notes, lab experiments, and automation projects.
+
+Always learning, building, and breaking things in the lab! 😄
